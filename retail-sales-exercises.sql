@@ -1,7 +1,7 @@
 # Muestra todos los autores con su nombre y apellido de Argentina 
 SELECT FirstName, LastName
 FROM `gcp-mgs.sampledata.authors` 
-WHERE Nationality = ""Argentina"""
+WHERE Nationality = "Argentina"
 
 # Lista los nombres de todos los productos (libros)   
 SELECT  
